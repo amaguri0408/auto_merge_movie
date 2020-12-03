@@ -1,5 +1,5 @@
 # auto_merge_movie
-楽器の演奏動画と別で録音した音声を合成するpythonのプログラム
+楽器の演奏動画と別で録音した音声を合成するpythonのプログラム  
 A python program that synthesizes audio recorded separately from musical instrument performance videos
 
 Qiitaに解説記事を載せてます
